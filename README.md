@@ -1,4 +1,5 @@
 📰 News App
+
 News App is a Flutter application that provides the latest news updates by fetching data from the NewsAPI.
 The app follows a structured architecture and utilizes Provider for state management to ensure a smooth user experience.
 
